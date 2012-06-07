@@ -13,6 +13,7 @@
 @interface RentalMovieViewController ()
 -(void)setupNav;
 -(void)accountClosed;
+
 @end
 
 @implementation RentalMovieViewController
