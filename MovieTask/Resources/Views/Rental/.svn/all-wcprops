@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/Resources/Views/Rental
+END
+RentalMovieView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/Resources/Views/Rental/RentalMovieView.xib
+END
+RentalView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/Resources/Views/Rental/RentalView.xib
+END
+RentalAddView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Task/!svn/ver/6/trunk/MovieTask/MovieTask/Resources/Views/Rental/RentalAddView.xib
+END
+RentalIndividualView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Task/!svn/ver/12/trunk/MovieTask/MovieTask/Resources/Views/Rental/RentalIndividualView.xib
+END

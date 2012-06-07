@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/Task/!svn/ver/2/trunk/MovieTask/MovieTask
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Task/!svn/ver/2/trunk/MovieTask/MovieTask/main.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/AppDelegate.h
+END
+MovieTask-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Task/!svn/ver/17/trunk/MovieTask/MovieTask/MovieTask-Info.plist
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Task/!svn/ver/19/trunk/MovieTask/MovieTask/AppDelegate.m
+END
+MovieTask-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/MovieTask-Prefix.pch
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Task/!svn/ver/19/trunk/MovieTask/MovieTask/MainWindow.xib
+END

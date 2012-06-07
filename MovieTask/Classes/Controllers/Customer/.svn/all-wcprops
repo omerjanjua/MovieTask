@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/Classes/Controllers/Customer
+END
+CustomerAddViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Task/!svn/ver/15/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerAddViewController.h
+END
+CustomerIndividualViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Task/!svn/ver/13/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerIndividualViewController.h
+END
+CustomerEditViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Task/!svn/ver/19/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerEditViewController.m
+END
+CustomerInfoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Task/!svn/ver/7/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerInfoViewController.h
+END
+CustomerModelClass.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Task/!svn/ver/7/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerModelClass.m
+END
+CustomerAddViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Task/!svn/ver/19/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerAddViewController.m
+END
+CustomerIndividualViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Task/!svn/ver/19/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerIndividualViewController.m
+END
+CustomerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerViewController.h
+END
+CustomerInfoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Task/!svn/ver/19/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerInfoViewController.m
+END
+CustomerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Task/!svn/ver/19/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerViewController.m
+END
+CustomerEditViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Task/!svn/ver/15/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerEditViewController.h
+END
+CustomerModelClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Task/!svn/ver/7/trunk/MovieTask/MovieTask/Classes/Controllers/Customer/CustomerModelClass.h
+END

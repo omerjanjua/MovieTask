@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Task/!svn/ver/2/trunk/MovieTask/MovieTask/Classes/Protocols
+END
+MovieDeleteDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Task/!svn/ver/14/trunk/MovieTask/MovieTask/Classes/Protocols/MovieDeleteDelegate.h
+END
+CustomerDeleteDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Task/!svn/ver/13/trunk/MovieTask/MovieTask/Classes/Protocols/CustomerDeleteDelegate.h
+END

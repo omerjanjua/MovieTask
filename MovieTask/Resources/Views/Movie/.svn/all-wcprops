@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/Resources/Views/Movie
+END
+MovieEditView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Task/!svn/ver/15/trunk/MovieTask/MovieTask/Resources/Views/Movie/MovieEditView.xib
+END
+MovieAddView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Task/!svn/ver/15/trunk/MovieTask/MovieTask/Resources/Views/Movie/MovieAddView.xib
+END
+MovieIndividualView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Task/!svn/ver/9/trunk/MovieTask/MovieTask/Resources/Views/Movie/MovieIndividualView.xib
+END
+MovieView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/Resources/Views/Movie/MovieView.xib
+END

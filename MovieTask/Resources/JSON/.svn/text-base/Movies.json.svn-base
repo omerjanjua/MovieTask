@@ -1,0 +1,29 @@
+ [
+  {
+  "Identifier":1,
+  "Art":"iron_man.jpeg",
+  "Name":"Iron Man",
+  "Cast":"Robert Downey Jr.",
+  "Director":"Jon Favreau",
+  "Rating":"12",
+  "Copy":"5"
+  },
+  {
+  "Identifier":2,
+  "Art":"hulk.jpeg",
+  "Name":"The Incredible Hulk",
+  "Cast":"Edward Norton",
+  "Director":"Louis Leterrier",
+  "Rating":"12",
+  "Copy":"1"
+  },
+  {
+  "Identifier":3,
+  "Art":"thor.jpeg",
+  "Name":"Thor",
+  "Cast":"Chris Hemsworth",
+  "Director":"Kenneth Branagh",
+  "Rating":"15",
+  "Copy":"10"
+  }
+  ]

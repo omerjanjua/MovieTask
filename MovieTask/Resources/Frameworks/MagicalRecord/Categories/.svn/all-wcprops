@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories
+END
+NSPersistentStoreCoordinator+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSPersistentStoreCoordinator+MagicalRecord.h
+END
+NSPersistentStore+MagicalRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSPersistentStore+MagicalRecord.m
+END
+NSManagedObject+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSManagedObject+MagicalRecord.h
+END
+NSManagedObjectModel+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSManagedObjectModel+MagicalRecord.h
+END
+NSPersistentStoreCoordinator+MagicalRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSPersistentStoreCoordinator+MagicalRecord.m
+END
+NSManagedObject+MagicalRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSManagedObject+MagicalRecord.m
+END
+NSManagedObjectContext+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSManagedObjectContext+MagicalRecord.h
+END
+NSManagedObject+MagicalDataImport.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSManagedObject+MagicalDataImport.h
+END
+NSManagedObjectModel+MagicalRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSManagedObjectModel+MagicalRecord.m
+END
+NSManagedObjectContext+MagicalRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSManagedObjectContext+MagicalRecord.m
+END
+NSPersistentStore+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSPersistentStore+MagicalRecord.h
+END
+NSManagedObject+MagicalDataImport.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/Categories/NSManagedObject+MagicalDataImport.m
+END

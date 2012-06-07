@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/Classes/Controllers/Movie
+END
+MovieEditViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Task/!svn/ver/19/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MovieEditViewController.m
+END
+MovieModelClass.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Task/!svn/ver/6/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MovieModelClass.m
+END
+MovieAddViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Task/!svn/ver/19/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MovieAddViewController.m
+END
+MovieIndividualViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Task/!svn/ver/18/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MovieIndividualViewController.m
+END
+MoviePhotoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Task/!svn/ver/19/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MoviePhotoViewController.m
+END
+MovieViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Task/!svn/ver/6/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MovieViewController.h
+END
+MovieViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Task/!svn/ver/18/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MovieViewController.m
+END
+MovieEditViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Task/!svn/ver/18/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MovieEditViewController.h
+END
+MovieModelClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Task/!svn/ver/6/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MovieModelClass.h
+END
+MovieAddViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Task/!svn/ver/18/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MovieAddViewController.h
+END
+MovieIndividualViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Task/!svn/ver/18/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MovieIndividualViewController.h
+END
+MoviePhotoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Task/!svn/ver/18/trunk/MovieTask/MovieTask/Classes/Controllers/Movie/MoviePhotoViewController.h
+END

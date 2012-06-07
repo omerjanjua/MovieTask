@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/Resources/Views/Customer
+END
+CustomerEditView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Task/!svn/ver/15/trunk/MovieTask/MovieTask/Resources/Views/Customer/CustomerEditView.xib
+END
+CustomerAddView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Task/!svn/ver/15/trunk/MovieTask/MovieTask/Resources/Views/Customer/CustomerAddView.xib
+END
+CustomerIndividualView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/Resources/Views/Customer/CustomerIndividualView.xib
+END
+CustomerInfoView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Task/!svn/ver/8/trunk/MovieTask/MovieTask/Resources/Views/Customer/CustomerInfoView.xib
+END
+CustomerView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Task/!svn/ver/3/trunk/MovieTask/MovieTask/Resources/Views/Customer/CustomerView.xib
+END

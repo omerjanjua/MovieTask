@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord
+END
+CoreData+MagicalRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/CoreData+MagicalRecord.h
+END
+MRCoreDataAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/MRCoreDataAction.h
+END
+MagicalRecordHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/MagicalRecordHelpers.h
+END
+MRCoreDataAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/MRCoreDataAction.m
+END
+MagicalRecordHelpers.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/MagicalRecordHelpers.m
+END
+MagicalRecordShorthand.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Task/!svn/ver/4/trunk/MovieTask/MovieTask/Resources/Frameworks/MagicalRecord/MagicalRecordShorthand.h
+END

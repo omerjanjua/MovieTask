@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1171" systemVersion="11D50b" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Copy" representedClassName="Copy" syncable="YES">
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="movie" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Movie" inverseName="copies" inverseEntity="Movie" syncable="YES"/>
+        <relationship name="rental" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Rental" inverseName="movieCopy" inverseEntity="Rental" syncable="YES"/>
+    </entity>
+    <entity name="Customer" representedClassName="Customer" syncable="YES">
+        <attribute name="accountNo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dob" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="number" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="postcode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <relationship name="rental" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Rental" inverseName="customer" inverseEntity="Rental" syncable="YES"/>
+    </entity>
+    <entity name="Movie" representedClassName="Movie" syncable="YES">
+        <attribute name="cast" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="director" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Transformable" valueTransformerName="ImageToDataTransformer" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rating" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="copies" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Copy" inverseName="movie" inverseEntity="Copy" syncable="YES"/>
+    </entity>
+    <entity name="Rental" representedClassName="Rental" syncable="YES">
+        <attribute name="dueDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="nights" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Decimal" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="rented" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="rentedDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="returnedDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <relationship name="customer" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="Customer" inverseName="rental" inverseEntity="Customer" syncable="YES"/>
+        <relationship name="movieCopy" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Copy" inverseName="rental" inverseEntity="Copy" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Copy" positionX="-423" positionY="252" width="128" height="90"/>
+        <element name="Customer" positionX="187" positionY="297" width="128" height="180"/>
+        <element name="Movie" positionX="-110" positionY="63" width="128" height="135"/>
+        <element name="Rental" positionX="-65" positionY="306" width="128" height="165"/>
+    </elements>
+</model>
